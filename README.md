@@ -33,6 +33,7 @@ B가 A 대비 P95 지연시간 약 **2.8배 빠름** (도메인: travel)
 <!-- # 여기에 Day 5 self1에서 선택한 도메인 결과를 채워요 -->
 
 ## 파일 구조
+```
 picture_diary/
 ├── README.md
 ├── .gitignore
@@ -48,6 +49,7 @@ picture_diary/
 │   └── travle_prompts.json
 └── outputs/
     └── (이미지·영상 샘플)
+```
 
 ## 라이선스
 MIT
