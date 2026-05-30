@@ -1,0 +1,24 @@
+{
+  "scenes": [
+    {
+      "scene_id": 1,
+      "scene_kr": "부슬비가 내리는 여름날, 햇빛이 희미한 구름 사이로 보인다.",
+      "prompt_en": "A wide shot of a summer day with light drizzle, soft cloudy daylight filtering through the clouds."
+    },
+    {
+      "scene_id": 2,
+      "scene_kr": "고층 빌딩 사이를 걷는 직장인들, 활기찬 도시의 모습.",
+      "prompt_en": "A medium shot of office workers walking between skyscrapers, capturing the bustling weekday atmosphere in a metropolitan life."
+    },
+    {
+      "scene_id": 3,
+      "scene_kr": "점심시간에 산책하며 느끼는 긍정적인 에너지와 동기부여.",
+      "prompt_en": "A close-up shot of a person reflecting positively while walking among professionals, eye-level perspective with soft lighting."
+    },
+    {
+      "scene_id": 4,
+      "scene_kr": "비가 온 후 시원한 바람이 불어오는 도시의 거리.",
+      "prompt_en": "A high angle shot of downtown streets feeling the cool summer breeze after rain, backlit lighting enhancing the city energy."
+    }
+  ]
+}
